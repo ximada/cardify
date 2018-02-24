@@ -19,7 +19,7 @@ const obteniendoElElemento = document.getElementById("miId")
 const nombreDeTuFuncion = => (obteniendoElElemento){
   Inicia tu proyecto...
 }
-
+```
 
 ## Flujo de trabajo
 

@@ -16,7 +16,7 @@ Ejemplo
 
 const obteniendoElElemento = document.getElementById("miId")
 
-const nombreDeTuFuncion = => (obteniendoElElemento){
+const nombreDeTuFuncion =(obteniendoElElemento) => {
   Inicia tu proyecto...
 }
 ```
